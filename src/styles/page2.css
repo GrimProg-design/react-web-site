@@ -1,0 +1,7 @@
+i {
+    font-weight: normal;
+}
+
+li:nth-child(2n + 1) {
+    background-color: silver;
+}
